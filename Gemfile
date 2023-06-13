@@ -66,4 +66,4 @@ group :development do
   # gem "spring"
 end
 
-gem "importmap-rails", "~> 1.1"
+gem 'importmap-rails', '~> 1.1'
