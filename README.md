@@ -104,7 +104,7 @@ To get a local copy up and running follow these simple example steps.
 To setup the project locally: clone the repository using:
 
 ```
-git@github.com:Lancelot-SO/hello-rails-react.git
+https://github.com/hakichris/hello-rails-react.git
 ```
 
 ### Install
